@@ -1,1 +1,1 @@
-console.log("farzan")
+console.log("farzan");
